@@ -1,6 +1,6 @@
 # stock_taking_application
 
-A new Flutter project.
+A new Flutter project.For the BS Information Technology FYP
 
 ## Getting Started
 
